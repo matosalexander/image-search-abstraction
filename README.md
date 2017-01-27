@@ -10,9 +10,9 @@
 
 ### Example Usage:
 
-`https://evening-retreat-91413.herokuapp.com/api/searchimage/dragon%20ball%20super?offset=1`
+`https://serene-anchorage-31117.herokuapp.com/api/searchimage/dragon%20ball%20super?offset=1`
 
-`https://evening-retreat-91413.herokuapp.com/api/latest`
+`https://serene-anchorage-31117.herokuapp.com/api/latest`
 
 ### Example Output:
 ```javascript
@@ -40,4 +40,4 @@
   ]
 ```
 
-[Demo](https://evening-retreat-91413.herokuapp.com)
+[Demo](https://serene-anchorage-31117.herokuapp.com)
